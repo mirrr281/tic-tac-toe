@@ -21,6 +21,9 @@ const patterns = [
 // player get turn until they win/lose/draw
 // to win they need to match certain pattern
 // draw happen when the board is full
+function gameOver(){
+  // todo make draw functionality
+}
 
 // verify move
 function verifyMove(e) {
