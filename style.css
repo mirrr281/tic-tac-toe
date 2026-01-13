@@ -61,7 +61,7 @@ body {
 
 /* Restart button */
 button {
-  margin-top: 15px;
+  margin-top: 16px;
   padding: 10px 18px;
   font-size: 1rem;
   border: none;
@@ -76,8 +76,4 @@ button {
 button:hover {
   background: #16a34a;
   transform: scale(1.05);
-}
-
-div{
-  
 }
